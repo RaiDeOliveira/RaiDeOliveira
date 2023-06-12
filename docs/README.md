@@ -1,7 +1,16 @@
 # OIIIIIIIIIIIII 👋
 
-![Kaworu Nagisa from Neon Genesis Evangelion](https://github.com/RaiDeOliveira/RaiDeOliveira/assets/123978295/a198e488-dc55-4469-837c-56f8123566de)
+Meu nome é Raí!
+Tenho 18 anos e, atualmente, estou cursando ciência da computação no Inteli. Ainda estou aprendendo o básico, mas sempre tentando não ficar parado! Quero usar a tecnologia pra mudar o mundo! 🎉
 
+![rei-ayanami-bread](https://github.com/RaiDeOliveira/RaiDeOliveira/assets/123978295/1fd00855-f99f-4787-b38f-4b7bf3250dbb)
+
+###O que estou aprendendo?
+- Python
+- JavaScript
+- SQL
+- HTML
+- CSS
 
 
 
