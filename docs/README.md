@@ -5,7 +5,7 @@ Tenho 18 anos e, atualmente, estou cursando ciência da computação no Inteli. 
 
 ![rei-ayanami-bread](https://github.com/RaiDeOliveira/RaiDeOliveira/assets/123978295/1fd00855-f99f-4787-b38f-4b7bf3250dbb)
 
-###O que estou aprendendo?
+### O que estou aprendendo?
 - Python
 - JavaScript
 - SQL
