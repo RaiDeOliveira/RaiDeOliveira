@@ -1,5 +1,8 @@
 # OIIIIIIIIIIIII 👋
-![Kaworu Nagisa from Neon Genesis Evangelion](https://i.gifer.com/40pT.gif)
+
+![Kaworu Nagisa from Neon Genesis Evangelion](https://github.com/RaiDeOliveira/RaiDeOliveira/assets/123978295/a198e488-dc55-4469-837c-56f8123566de)
+
+
 
 
 <!--
