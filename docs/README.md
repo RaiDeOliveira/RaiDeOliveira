@@ -1,4 +1,6 @@
-### Hi there 👋
+# OIIIIIIIIIIIII 👋
+![Kaworu Nagisa from Neon Genesis Evangelion](https://i.gifer.com/40pT.gif)
+
 
 <!--
 **RaiDeOliveira/RaiDeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
